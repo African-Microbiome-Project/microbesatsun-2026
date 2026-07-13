@@ -1,7 +1,36 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-author_profile: true
+author_profile: false
+header:
+  overlay_color: "#1a1a2e"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/banner.jpg
+  caption: "Stellenbosch University"
+excerpt: >
+  A symposium and training workshop on the use of **anvi'o** for multi-omics applications.<br />
+  **21–25 September 2026 · Stellenbosch University**
+feature_row:
+  - image_path: /assets/images/anvio.png
+    alt: "anvi'o"
+    title: "anvi'o Multi-omics"
+    excerpt: "Hands-on training in integrated multi-omics analysis using the anvi'o platform."
+    url: /tutorials/
+    btn_label: "Tutorials"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/symposium.png
+    alt: "Symposium"
+    title: "Symposium"
+    excerpt: "Research presentations from leading scientists working at the frontier of microbial multi-omics."
+    url: /agenda/
+    btn_label: "Agenda"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/network.png
+    alt: "Networking"
+    title: "Networking"
+    excerpt: "Connect with postgraduate researchers and postdocs across Africa working in microbial genomics."
+    url: /people/
+    btn_label: "People"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
