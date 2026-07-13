@@ -8,7 +8,7 @@ toc_label: "On this page"
 
 ## Overview
 
-**Microbes at SUN 2026** is a five-day symposium and training workshop hosted by the [African Microbiome Group](https://africanmicrobiomeproject.org/) at Stellenbosch University. The event brings together postgraduate students and postdoctoral researchers from across Africa for training and collaboration in microbial 'omics' research.
+**Microbes in Stellenbosch 2026** is a five-day symposium and training workshop hosted by the [African Microbiome Group](https://africanmicrobiomeproject.org/) at Stellenbosch University. The event brings together postgraduate students and postdoctoral researchers from across Africa for training and collaboration in microbial 'omics' research.
 
 The workshop centres on **anvi'o** — a powerful, interactive open-source platform for the integrated analysis of 'omics' data, including metagenomics, metatranscriptomics, metaproteomics, and more.
 
