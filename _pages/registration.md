@@ -45,5 +45,5 @@ Please apply using the this link [registration link](https://forms.cloud.microso
 
 <img src="{{ '/assets/images/registration_qr.png' | relative_url }}" alt="Scan to register for Microbes at SUN 2026" width="220" style="display:block; margin:1.5em auto;">
 
-* For enquiries, contact us at [microbiome@sun.ac.za](mailto:microbiome@sun.ac.za).*
+* For enquiries, contact us at [microbiome@sun.ac.za](mailto:microbiome@sun.ac.za)
 
