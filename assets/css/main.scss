@@ -7,3 +7,35 @@
 .site-logo img {
   max-height: 120px !important;
 }
+
+
+body {
+  font-size: 0.8em !important;
+}
+
+.page__content p {
+  font-size: 0.85em;
+}
+
+.feature__item .archive__item-teaser {
+  height: 200px;
+  overflow: hidden;
+}
+
+.feature__item .archive__item-teaser img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.feature__item .archive__item-teaser {
+  height: 200px;
+  overflow: hidden;
+}
+
+.feature__item .archive__item-teaser img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
