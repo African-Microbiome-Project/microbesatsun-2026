@@ -27,6 +27,10 @@ The workshop centres on **anvi'o** — a powerful, interactive open-source platf
 Stellenbosch University  
 Stellenbosch, Western Cape, South Africa
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d594.29817626988!2d18.864894020817633!3d-33.93091351121968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcdb33d95e20003%3A0x3446c398269647b3!2sSchool%20for%20Data%20Science%20and%20Computational%20Thinking!5e1!3m2!1sen!2sza!4v1784000130389!5m2!1sen!2sza" 
+width="600" 
+height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 ## Dates
 
 **07–11 September 2026**
