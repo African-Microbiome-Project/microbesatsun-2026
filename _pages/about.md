@@ -4,6 +4,8 @@ permalink: /about/
 layout: single
 toc: true
 toc_label: "On this page"
+header:
+  image: /assets/images/STBCampus-50.jpg
 ---
 
 ## Overview

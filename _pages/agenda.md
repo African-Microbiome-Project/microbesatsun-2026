@@ -9,7 +9,7 @@ toc_label: "Programme"
 *The full programme will be announced closer to the event. A provisional outline is provided below.*
 
 ## Day 1 — Monday 07 September
-**Arrival & Symposium Opening**
+**Arrival & opening**
 
 | Time | Session |
 |------|---------|
