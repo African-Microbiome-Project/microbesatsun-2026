@@ -15,12 +15,12 @@ Format: Days 2-4: Hands-on training (Anvi'o), Day 5: Symposium with poster sessi
 
 **Full programme**
 
-## Day 1 — Monday 07 September
+## Day 1 — Monday 07 September (Training)
 **Genomics training**
 
-| Time | Session |
+| Time | Session | Speaker/ Lead | Institute \
 |------|---------|
-| 08:30 - 09:00 | Registration and Welcome|
+| 08:30 - 09:00 | Registration and Welcome| | |
 | 09:00 - 09:00 | Opening keynote - African Microbiome Project / Stellenbosch University |
 | 09:15 - 09:30 | Sponsor talk |
 | 09:30 - 10:15 | Introduction to the anvi'o software system - Iva Vesell (HIFMB, Germany) |
