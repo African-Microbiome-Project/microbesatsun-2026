@@ -15,112 +15,109 @@ Format: Days 2-4: Hands-on training (Anvi'o), Day 5: Symposium with poster sessi
 
 **Full programme**
 
-## Day 1 — Monday 07 September (Training)
-**Genomics training**
+## Day 1 — Monday 7 September
+**Genomics (Training)**
 
-| Time | Session | Speaker/ Lead | Institute \
-|------|---------|
-| 08:30 - 09:00 | Registration and Welcome| | |
-| 09:00 - 09:00 | Opening keynote - African Microbiome Project / Stellenbosch University |
-| 09:15 - 09:30 | Sponsor talk |
-| 09:30 - 10:15 | Introduction to the anvi'o software system - Iva Vesell (HIFMB, Germany) |
-| 10:15 - 10:30 |  *Coffee & Tea Break* |
-| 10:30 - 12:00 | The anvi'o interactive system - Florian Trigodet (HIFMB, Germany) |
-| 12:00 - 13: 00 | *Lunch* |
-| 13:00 - 14:00 | Genomics (gene calling, functional annotation, taxonomy): tutorial -  Trainers + SU team |
-| 14:30 - 14:45 | *Coffee & Tea Break* |
-| 14:45 - 17:30 | Genomics: tutorial, continued |
-
----
-
-## Day 2 — Tuesday 08 September
-**Pangenomics and metabolism training**
-
-| Time | Session |
-|------|---------|
-| 09:00 - 09:15 | Sponsor talk |
-| 09:15 - 10:15 | Pangenomics (comparing gene content across genomes): theory - Iva Veseli / Florian Trigodet |
-| 10:15 - 10:30 | *Coffee break* |
-| 10:30 - 12:00 | Pangenomics: tutorial - Trainers |
-| 12:00 - 13:00 | *Lunch* |
-| 13:00 - 14:15 | Metabolism estimation (genes to pathways): theory + tutorial - Iva Veseli |
-| 14:15 - 14:30 | *Coffee break*  |
-| 14:30 - 16:00 | Metabolism estimation: tutorial, continued - Trainers |
-| 16:00 - 17:30 | Reaction networks & metabolic interactions: tutorial |
+| Time | Session | Speaker / Lead | Institute |
+|------|---------|----------------|-----------|
+| 08:30 – 09:00 | Registration & welcome coffee | | |
+| 09:00 – 09:10 | Welcome & housekeeping; intro to faculty, programme & setting | Dr. Nello Gregori | Stellenbosch University |
+| 09:15 – 10:15 | Introduction to the anvi'o software ecosystem | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, Oldenburg, DE |
+| 10:15 – 10:30 | *Coffee & tea break* | | |
+| 10:30 – 12:00 | The anvi'o interactive interface | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 12:00 – 12:45 | *Group lunch* | | |
+| 12:45 – 13:00 | Sponsor talk: Seeing More with PacBio High Fidelity (HiFi) data | Tiffany du Plessis | Inqaba Biotec |
+| 13:00 – 14:30 | Genomics (gene calling, functional annotation, taxonomy): tutorial | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 14:30 – 14:45 | *Coffee & tea break* | | |
+| 14:45 – 17:00 | Genomics: tutorial, continued | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
 
 ---
 
-## Day 3 — Wednesday 09 September
-**Metagenomics**
+## Day 2 — Tuesday 8 September
+**Pangenomics + Metabolism (Training)**
 
-| Time | Session |
-|------|---------|
-| 09:00 - 09:15 | Sponsor talk |
-| 09:15 - 10:15 | Metagenomic read recruitment: theory + tutorial - Trainers |
-| 10:15 - 10:30 | *Coffee break* |
-| 10:30 - 12:00 | Metagenomic read recruitment: tutorial, continued - Trainers |
-| 12:00 - 13:00 | *Lunch* |
-| 13:00 - 14:30 | Genome-resolved metagenomics (binning & refinement): tutorial - Trainers |
-| 14:30 - 14:45 | *Coffee break* |
-| 14:45 - 17:30 | Genome-resolved metagenomics: tutorial, continued - Trainers |
+| Time | Session | Speaker / Lead | Institute |
+|------|---------|----------------|-----------|
+| 09:00 – 10:15 | Pangenomics (comparing gene content across genomes): theory | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 10:15 – 10:30 | *Coffee & tea break* | | |
+| 10:30 – 12:00 | Pangenomics: tutorial | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 12:00 – 13:00 | *Group lunch* | | |
+| 13:00 – 14:15 | Metabolism estimation (genes to pathways): theory + tutorial | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 14:15 – 14:30 | *Coffee & tea break* | | |
+| 14:30 – 16:00 | Metabolism estimation: tutorial, continued | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 16:00 – 17:00 | Reaction networks & metabolic interactions: tutorial | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
 
 ---
 
-## Day 4 — Thursday  10 September
-**Scalable Bioinformatics & Wrap-up training**
+## Day 3 — Wednesday 9 September
+**Metagenomics (Training)**
 
-| Time | Session |
-|------|---------|
-| 09:00 - 10:15 | Automated, scalable & reproducible bioinformatics workflows: theory + tutorial - Florian Trigodet |
-| 10:15 - 10:30 | *Coffee break* |
-| 10:30 - 12:00 | Bioinformatics workflows: tutorial, continued - Trainers |
-| 12:00 - 13:00 | *Lunch* |
-| 13:00 - 14:30 | Metabolomics of Human Fluids: A Practical Introduction to NMR-Based Approaches (theory) - Jaroslav Havlik & Anna Mascellani Bergo (Prague, CZU) |
-| 14:30 - 14:45 | *Coffee break* |
-| 16:00 | Metabolomics of Human Fluids: A Practical Introduction to NMR-Based Approaches (hands-on) - aroslav Havlik & Anna Mascellani Bergo (Prague, CZU) |
-| 16:30 - 17:30 | Workshop wrap-up, Q&A and closing - Iva Veseli & Florian Trigodet |
+| Time | Session | Speaker / Lead | Institute |
+|------|---------|----------------|-----------|
+| 09:00 – 09:15 | Sponsor talk | | |
+| 09:15 – 10:15 | Metagenomic read recruitment: theory + tutorial | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 10:15 – 10:30 | *Coffee & tea break* | | |
+| 10:30 – 12:00 | Metagenomic read recruitment: tutorial, continued | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 12:00 – 13:00 | *Group lunch* | | |
+| 13:00 – 14:30 | Genome-resolved metagenomics (binning & refinement): tutorial | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 14:30 – 14:45 | *Coffee & tea break* | | |
+| 14:45 – 17:00 | Genome-resolved metagenomics: tutorial, continued | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+
+---
+
+## Day 4 — Thursday 10 September
+**Scalable Bioinformatics & Wrap-up (Training)**
+
+| Time | Session | Speaker / Lead | Institute |
+|------|---------|----------------|-----------|
+| 09:00 – 10:15 | Automated, scalable & reproducible bioinformatics workflows: theory + tutorial | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 10:15 – 10:30 | *Coffee & tea break* | | |
+| 10:30 – 12:00 | Bioinformatics workflows: tutorial, continued | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 12:00 – 13:00 | *Group lunch* | | |
+| 13:00 – 14:30 | Metabolomics of Human Fluids: A Practical Introduction to NMR-Based Approaches (theory) | Prof Jaroslav Havlik & Anna Mascellani Bergo | Prague, CZU |
+| 14:30 – 14:45 | *Coffee & tea break* | | |
+| 14:45 – 16:30 | Metabolomics of Human Fluids: A Practical Introduction to NMR-Based Approaches (hands-on) | Prof Jaroslav Havlik & Anna Mascellani Bergo | Prague, CZU |
+| 16:30 – 17:00 | Workshop wrap-up, Q&A and closing | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
 
 ---
 
 ## Day 5 — Friday 11 September
 **Symposium**
 
-| Time | Session |
-|------|---------|
-| 08:30 - 09:00 | Registration & welcome coffee |
-| 09:00 | Welcome - Zama Mahlobo (SU) |
-| 09:10 | Opening: SU & the African Microbiome Project - Prof Sibusiso Moyo (DVC, SU) |
-| 09:25 | Keynote: anvi’o & integrated multi-omics (TBC) - Iva Veseli |
-| 09:50 | Keynote: reproducible metagenomics / EcoPhylo(TBC) - Florian Trigodet|
-| 10:15 | Tea/Posters |
-| 10:40 | Keynote: Leads EMBL-EBI’S microbiome informatics team - Dr Rob Finn (United Kingdom) |
-| 11:05 | Gut and Diet Metabolomics: Linking Food, Microbiota, and Health - Prof Jaroslav Havlik (Prague, CZU) |
-| 11:30 | Water microbiome, source tracking & AMR - Prof Wesaal Khan (SU) |
-| 11:55 | Vaginal microbiome & women’s health in Africa - Prof Jo-Ann Passmore (SU) |
-| 12:20 | *Lunch* |
-| 13:20 | Gut-brain axis in neuropsychiatric disorders |
-| 13:45 | Parasites(TBC) - Dr Renay Ngobeni-Nyambi (SU) |
-| 14:35 | Metagenomics, microbial genomics & bioprospecting |
-| 15:00 | *Tea break* |
-| 15:20 | Soil microbiome & bioremediation |
-| 15:45 | Antifungal resistance & pathobiomes |
-| 16:10 | Panel: building the African Microbiome network |
-| 16:55 | Vote of thanks & close |
+| Time | Session | Speaker / Lead | Institute |
+|------|---------|----------------|-----------|
+| 08:30 | Registration & welcome coffee | | |
+| 09:00 | Welcome & housekeeping | Dr Zama Mahlobo | Stellenbosch, ZA |
+| 09:10 | Opening: SU & the African Microbiome Project | Prof Sibusiso Moyo (DVC) | Stellenbosch, ZA |
+| 09:25 | From Microbiomes to Molecules: (Meta) Genome-Guided Biodiscovery from African Microbial Diversity | Prof Marla Trindade | Cape Town (Bellville), ZA |
+| 09:50 | Gut and Diet Metabolomics: Linking Food, Microbiota, and Health | Prof Jaroslav Havlik | Prague, CZU |
+| 10:15 | *Tea* | | |
+| | **Session moderator** | **Dr Sam Leareng** | |
+| 10:30 | Keynote: Leads EMBL-EBI's microbiome informatics team | Dr Robert (Rob) Finn | MBL-EBI, United Kingdom, UK |
+| 10:55 | TBC | Dr Florian Trigodet | HIFMB, Oldenburg, DE |
+| 11:25 | Metagenomic Insights into Pathogen Dynamics and Resistance in Sewer Microbiomes | Prof Sheena Kumari | Durban (Institute for water and wastewater), ZA |
+| 11:50 | TBC topic | Dr Mayibongwe Buthelezi | Stellenbosch, ZA |
+| 12:30 | *Lunch* | | |
+| | **Session moderator** | **Dr Peter Montso** | |
+| 13:30 | Gut-brain axis in neuropsychiatric disorders | Prof Sian Hemmings | Cape Town (Tygerberg), ZA |
+| 13:55 | Gut microbes and Child Health: Observations from the MAL-ED Project | Prof Pascal Bessong | University of Venda |
+| 14:25 | Microbiomes, metabolomes and health: Investigating host-microbial interactions | Dr. Hannibal Musarurwa | Walter Sisulu, Mthatha, ZA |
+| 14:30 | *Tea* | | |
+| | **Session moderator** | **Dr Dillon Muzondiwa** | |
+| 14:45 | PDAC & the Upper GI Pathobiome in a South African Cohort | Dr Angela Botes | Johannesburg, ZA |
+| 15:10 | **Panel: Advancing microbiome research for public and ecosystem health** | See panel below | mixed |
+| 16:10 | Vote of thanks & awards | Prof Bertie Fielding (Dean of Science) | Stellenbosch, ZA |
 
+### Closing Panel (15:10 – 16:10)
+*Advancing microbiome research for public and ecosystem health*
 
-
----
-
-**Panel - Building the African Microbiome Network**
-
-| Name | Institute and role |
-|------|---------|
-| Prof Thulani Makhalanyane | SU - African Microbiome Project / SARChI Chair - Panel moderator |
-| Prof Ruth Ley | MPI for Biology, Tübingen - International perspective |
-| Prof Pascal Bessong| University of Venda - African cohorts and One Health |
-| Prof Hafizah Chenia | SU - Water, AMR & infrastructure |
-| Prof Marshall Keyster | UWC - Plant-microbe interactions, abiotic stress, biocontrol |
-| Prof Oliver Bezuidt| UP - Marine microbiome |
+| Name | Institute | Role |
+|------|-----------|------|
+| Prof Thulani Makhalanyane | SU – African Microbiome Project / SARChI Chair | Chair / moderator |
+| Dr Iva Veseli | HIFMB, Germany | Panelist |
+| Dr Renay Ngobeni-Nyambi | Stellenbosch University | Panelist |
+| Dr Sfiso Gumbi | University of KwaZulu Natal | Panelist |
+| Dr John Paul Makumbi | Stellenbosch University | Panelist |
 
 ---
 
