@@ -17,10 +17,10 @@ Participants are expected to have:
 
 
 ### Installation of anvio-dev
-Here is the link for the installation instructions for anvio-dev: (https://anvio.org/install/linux/dev/)
+Here is the link for the installation instructions for anvio-dev: [anvi'o Linux dev install guide](https://anvio.org/install/linux/dev/).
 The github is linked in the instructions. If they were able to install v9, the process is very similar, except for the addition of linking the github repository.
 
-In addition to the base installation of anvio-dev, we would need the IT to run a few command which downloads and setup key resources needed for the workshop and for anyone using anvi'o for their research. These commands are listed in the installation instructions here: (https://anvio.org/install/linux/dev/#61-setup-key-resources)
+In addition to the base installation of anvio-dev, we would need the IT to run a few command which downloads and setup key resources needed for the workshop and for anyone using anvi'o for their research. These commands are listed in the installation instructions here: [setup section](https://anvio.org/install/linux/dev/#61-setup-key-resources)
 In brief, here they are:
 
 anvi-setup-scg-taxonomy
