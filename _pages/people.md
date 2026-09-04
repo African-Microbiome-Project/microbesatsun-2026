@@ -18,17 +18,12 @@ We are grateful for the collaboration that made this symposium and training work
 | Elanna Bester-Klopper | Stellenbosch University                                |
 | [Dillon Muzondiwa](https://africanmicrobiomeproject.org/Dillon-Muzondiwa)      | Stellenbosch University                                |
 | [Nello Gregori](https://africanmicrobiomeproject.org/Nello-Gregori)     | Stellenbosch University                                |
-| John Paul Makumbi     | Stellenbosch University                                |
-| Mayi Buthelezi        | Stellenbosch University                                |
+| [John Paul Makumbi](https://africanmicrobiomeproject.org/jp-makumbi/)     | Stellenbosch University                                |
+| [Mayi Buthelezi](https://africanmicrobiomeproject.org/mayibongwe-buthelezi/)        | Stellenbosch University                                |
 | [Zama mahlobo](https://africanmicrobiomeproject.org/zama-mahlobo)            | Stellenbosch University                                |
 | [Peter Montso](https://africanmicrobiomeproject.org/peter-kotsoana-montso)          | Stellenbosch University                                |
 | [Iva Veseli](https://anvio.org/people/ivagljiva)            | Helmholtz Institute for Functional Marine Biodiversity |
 | [Florian Trigodet](https://anvio.org/people/FlorianTrigodet)      | Helmholtz Institute for Functional Marine Biodiversity |
-
-
-## Instructors
-
-*To be added.*
 
 ---
 
