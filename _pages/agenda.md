@@ -15,7 +15,7 @@ Format: Days 2-4: Hands-on training (Anvi'o), Day 5: Symposium with poster sessi
 
 **Full programme**
 
-## Day 1 — Monday 7 September
+## Day 1 - Monday 7 September
 **Genomics (Training)**
 
 | Time | Session | Speaker / Lead | Institute |
@@ -33,7 +33,7 @@ Format: Days 2-4: Hands-on training (Anvi'o), Day 5: Symposium with poster sessi
 
 ---
 
-## Day 2 — Tuesday 8 September
+## Day 2 - Tuesday 8 September
 **Pangenomics + Metabolism (Training)**
 
 | Time | Session | Speaker / Lead | Institute |
@@ -49,7 +49,7 @@ Format: Days 2-4: Hands-on training (Anvi'o), Day 5: Symposium with poster sessi
 
 ---
 
-## Day 3 — Wednesday 9 September
+## Day 3 - Wednesday 9 September
 **Metagenomics (Training)**
 
 | Time | Session | Speaker / Lead | Institute |
@@ -65,7 +65,7 @@ Format: Days 2-4: Hands-on training (Anvi'o), Day 5: Symposium with poster sessi
 
 ---
 
-## Day 4 — Thursday 10 September
+## Day 4 - Thursday 10 September
 **Scalable Bioinformatics & Wrap-up (Training)**
 
 | Time | Session | Speaker / Lead | Institute |
@@ -81,7 +81,7 @@ Format: Days 2-4: Hands-on training (Anvi'o), Day 5: Symposium with poster sessi
 
 ---
 
-## Day 5 — Friday 11 September
+## Day 5 - Friday 11 September
 **Symposium**
 
 | Time | Session | Speaker / Lead | Institute |
