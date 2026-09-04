@@ -29,7 +29,7 @@ Your application should include:
 | Applications open | *TBC* |
 | Application deadline | *TBC* |
 | Notification of acceptance | *TBC* |
-| Workshop | 21–25 September 2026 |
+| Workshop | 7–11 September 2026 |
 
 ---
 

@@ -4,31 +4,36 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
+/* Header logo */
 .site-logo img {
   max-height: 120px !important;
 }
 
-
+/* Consistent font sizing */
 body {
-  font-size: 0.8em !important;
+  font-size: 16px !important;
 }
 
-.page__content p {
-  font-size: 0.85em;
+.page__content p,
+.page__content li,
+.page__content td {
+  font-size: 0.9rem !important;
+  line-height: 1.7 !important;
 }
 
-.feature__item .archive__item-teaser {
-  height: 200px;
-  overflow: hidden;
+h1 { font-size: 1.8rem !important; }
+h2 { font-size: 1.4rem !important; }
+h3 { font-size: 1.2rem !important; }
+
+.site-title {
+  font-size: 1.1rem !important;
 }
 
-.feature__item .archive__item-teaser img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.site-subtitle {
+  font-size: 0.8rem !important;
 }
 
-
+/* Feature cards */
 .feature__item .archive__item-teaser {
   height: 200px;
   overflow: hidden;
