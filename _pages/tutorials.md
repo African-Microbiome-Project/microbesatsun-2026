@@ -23,6 +23,7 @@ The github is linked in the instructions. If they were able to install v9, the p
 In addition to the base installation of anvio-dev, we would need the IT to run a few command which downloads and setup key resources needed for the workshop and for anyone using anvi'o for their research. These commands are listed in the installation instructions here: [setup section](https://anvio.org/install/linux/dev/#61-setup-key-resources)
 In brief, here they are:
 
+```bash
 anvi-setup-scg-taxonomy
 
 anvi-setup-ncbi-cogs
@@ -30,11 +31,11 @@ anvi-setup-ncbi-cogs
 anvi-setup-kegg-data
 
 anvi-setup-modelseed-databaseinsi
-
+```
 
 ### Discord channel
 Use this link to join the [discord](https://discord.com/invite/C6He6mSNY4) channel for communication. 
----
+
 
 ## Module 1: Introduction to anvi'o
 
