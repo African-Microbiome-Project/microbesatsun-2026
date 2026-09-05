@@ -17,10 +17,10 @@ Participants are expected to have:
 
 
 ### Installation of anvio-dev
-Here is the link for the installation instructions for anvio-dev: [anvi'o development version install guide](https://anvio.org/install/#development-version ).
-The github is linked in the instructions. If they were able to install v9, the process is very similar, except for the addition of linking the github repository.
+Here is the link for the installation instructions for anvio-dev: [anvi'o development version install guide](https://anvio.org/install/#development-version ). Please follow the instructions relevant for their laptop OS
 
-In addition to the base installation of anvio-dev, we would need the IT to run a few command which downloads and setup key resources needed for the workshop and for anyone using anvi'o for their research. These commands are listed in the installation instructions here: [setup section](https://anvio.org/install/linux/dev/#61-setup-key-resources)
+In addition to the base installation of anvio-dev, you need to  run a few commands which downloads and setup key resources needed for the workshop and for anyone using anvi'o for their research. 
+
 In brief, here they are:
 
 ```bash
@@ -38,35 +38,15 @@ Use this link to join the [discord](https://discord.com/invite/C6He6mSNY4) chann
 
 
 ## Module 1: Genomics
-
-An overview of the anvi'o ecosystem — its design philosophy, data structures, and how it integrates diverse omics data types into a single analytical framework.
-
-*Materials coming soon.*
-
 ---
 
 ## Module 2: Pangenomics
-
-Constructing and visualising pangenomes. Identifying core and accessory gene clusters, linking pangenomics to ecology and evolution.
-
-*Materials coming soon.*
-
 ---
 
 ## Module 3: Metagenomics
-
-From raw reads to metagenome-assembled genomes (MAGs). Covers quality control, assembly, binning, bin refinement, quality assessment, and taxonomic classification within anvi'o.
-
-*Materials coming soon.*
-
 ---
 
 ## Module 4: Scalable Bioinformatics & Wrap-up (training)
-
-Integrating metagenomic, metatranscriptomic, and metaproteomic data within anvi'o. Visualising expression patterns and linking function to community structure.
-
-*Materials coming soon.*
-
 ---
 
 ## Additional Resources
