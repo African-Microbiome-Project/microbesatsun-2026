@@ -42,35 +42,37 @@ To download all the training files, please follow the instructions below.
 
 # set up your working directory
 
-mkdir -p <working directory path>
+mkdir -p Stellenbosch_workshop
+
+cd Stellenbosch_workshop
 
 # interactive interface tutorial
 curl -L https://cloud.uol.de/public.php/dav/files/SMzBr8KbrKgQKrN \
-     -o <working directory path>/interactive_interface.tar.gz
+     -o interactive_interface.tar.gz
 tar -zxvf interactive_interface.tar.gz
 
 # trichodesmium tutorial (genomics, pangenomics, metabolism)
 curl -L https://cloud.uol.de/public.php/dav/files/S67286XGxtax2AX \
-     -o <working directory path>/trichodesmium_tutorial.tar.gz
+     -o trichodesmium_tutorial.tar.gz
 tar -zxvf trichodesmium_tutorial.tar.gz
 
 # read recruitment tutorial
 curl -L https://cloud.uol.de/public.php/dav/files/B849axL35cBZzYD \
-     -o <working directory path>/metagenomic-read-recruitment-data-pack.tar.gz
+     -o metagenomic-read-recruitment-data-pack.tar.gz
 tar -zxvf metagenomic-read-recruitment-data-pack.tar.gz
 
 # binning tutorials
-curl -L -o <working directory path>/INFANT-GUT-TUTORIAL.tar.gz \
+curl -L -o INFANT-GUT-TUTORIAL.tar.gz \
      https://cloud.uol.de/public.php/dav/files/WLxH3aPJymCW9Lp
 tar -zxvf INFANT-GUT-TUTORIAL.tar.gz
 
 curl -L https://cloud.uol.de/public.php/dav/files/c4TyGoDe3D7XPiq \
-     -o <working directory path>/BINNING_POPGEN_TUTORIAL.tar.gz
+     -o BINNING_POPGEN_TUTORIAL.tar.gz
 tar -xvf BINNING_POPGEN_TUTORIAL.tar.gz
 
 # workflow tutorial
 curl -L https://cloud.uol.de/public.php/dav/files/9eHngByzx4L63aq \
-     -o <working directory path>/WORKFLOW_MATERIAL.tar.gz
+     -o WORKFLOW_MATERIAL.tar.gz
 tar -xvf WORKFLOW_MATERIAL.tar.gz
 ```
 
