@@ -33,6 +33,48 @@ anvi-setup-kegg-data
 anvi-setup-modelseed-databaseinsi
 ```
 
+
+### Downloading training files
+
+To download all the training files, please follow the instructions below. 
+
+```bash
+
+# set up your working directory
+
+mkdir -p <working directory path>
+
+# interactive interface tutorial
+curl -L https://cloud.uol.de/public.php/dav/files/SMzBr8KbrKgQKrN \
+     -o <working directory path>/interactive_interface.tar.gz
+tar -zxvf interactive_interface.tar.gz
+
+# trichodesmium tutorial (genomics, pangenomics, metabolism)
+curl -L https://cloud.uol.de/public.php/dav/files/S67286XGxtax2AX \
+     -o <working directory path>/trichodesmium_tutorial.tar.gz
+tar -zxvf trichodesmium_tutorial.tar.gz
+
+# read recruitment tutorial
+curl -L https://cloud.uol.de/public.php/dav/files/B849axL35cBZzYD \
+     -o <working directory path>/metagenomic-read-recruitment-data-pack.tar.gz
+tar -zxvf metagenomic-read-recruitment-data-pack.tar.gz
+
+# binning tutorials
+curl -L -o <working directory path>/INFANT-GUT-TUTORIAL.tar.gz \
+     https://cloud.uol.de/public.php/dav/files/WLxH3aPJymCW9Lp
+tar -zxvf INFANT-GUT-TUTORIAL.tar.gz
+
+curl -L https://cloud.uol.de/public.php/dav/files/c4TyGoDe3D7XPiq \
+     -o <working directory path>/BINNING_POPGEN_TUTORIAL.tar.gz
+tar -xvf BINNING_POPGEN_TUTORIAL.tar.gz
+
+# workflow tutorial
+curl -L https://cloud.uol.de/public.php/dav/files/9eHngByzx4L63aq \
+     -o <working directory path>/WORKFLOW_MATERIAL.tar.gz
+tar -xvf WORKFLOW_MATERIAL.tar.gz
+```
+
+
 ### Discord channel
 Use this link to join the [discord](https://discord.com/invite/C6He6mSNY4) channel for communication. 
 
