@@ -84,7 +84,7 @@ Hosted by the African Microbiome Project, Stellenbosch University (SU).
 | 13:00 – 14:30 | Metabolomics of Human Fluids: A Practical Introduction to NMR-Based Approaches (theory) | Prof Jaroslav Havlik & Anna Mascellani Bergo | Prague, CZU |
 | 14:30 – 14:45 | *Coffee & tea break* | | |
 | 14:45 – 16:30 | Metabolomics of Human Fluids: A Practical Introduction to NMR-Based Approaches (hands-on) | Prof Jaroslav Havlik & Anna Mascellani Bergo | Prague, CZU |
-| 16:30 – 17:00 | Workshop wrap-up, Q&A and closing | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB, DE |
+| 16:30 – 17:00 | Workshop wrap-up, Q&A and closing | Dr. Iva Veseli / Dr. Florian Trigodet | HIFMB |
 
 ---
 
@@ -100,13 +100,13 @@ Hosted by the African Microbiome Project, Stellenbosch University (SU).
 | 09:50 | Gut and Diet Metabolomics: Linking Food, Microbiota, and Health | Prof Jaroslav Havlik | Prague, CZU |
 | 10:15 | *Tea* | | |
 | | **Session moderator** | **Dr Sam Leareng** | |
-| 10:30 | Keynote: Leads EMBL-EBI's microbiome informatics team | Dr Robert (Rob) Finn | MBL-EBI, United Kingdom, UK |
-| 10:55 | TBC | Dr Florian Trigodet | HIFMB, Oldenburg, DE |
+| 10:30 | Keynote: Clustering millions of genomes to determine redundancy and novelty | Dr Robert (Rob) Finn | MBL-EBI, United Kingdom, UK |
+| 10:55 | Seeing is the key: two stories of high-resolution genomics | Dr Florian Trigodet | HIFMB, Oldenburg, DE |
 | 11:25 | Metagenomic Insights into Pathogen Dynamics and Resistance in Sewer Microbiomes | Prof Sheena Kumari | Durban (Institute for water and wastewater), ZA |
-| 11:50 | TBC topic | Dr Mayibongwe Buthelezi | Stellenbosch, ZA |
+| 11:50 | DMSP from the poles to the tropics | Dr Mayibongwe Buthelezi | Stellenbosch, ZA |
 | 12:30 | *Lunch* | | |
 | | **Session moderator** | **Dr Peter Montso** | |
-| 13:30 | Gut-brain axis in neuropsychiatric disorders | Prof Sian Hemmings | Cape Town (Tygerberg), ZA |
+| 13:30 | When Exposure Is Not Enough: The Gut Microbiome as a Biological Modifier in PTSD and FASD | Prof Sian Hemmings | Cape Town (Tygerberg), ZA |
 | 13:55 | Gut microbes and Child Health: Observations from the MAL-ED Project | Prof Pascal Bessong | University of Venda |
 | 14:25 | Microbiomes, metabolomes and health: Investigating host-microbial interactions | Dr. Hannibal Musarurwa | Walter Sisulu, Mthatha, ZA |
 | 14:30 | *Tea* | | |
