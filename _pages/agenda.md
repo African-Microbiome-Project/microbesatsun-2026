@@ -112,7 +112,7 @@ Hosted by the African Microbiome Project, Stellenbosch University (SU).
 | 14:30 | *Tea* | | |
 | | **Session moderator** | **Dr Dillon Muzondiwa** | |
 | 14:45 | PDAC & the Upper GI Pathobiome in a South African Cohort | Dr Angela Botes | Johannesburg, ZA |
-| 15:10 | **Panel: Advancing microbiome research for public and ecosystem health** | See panel below | mixed |
+| 15:10 | **Panel: Advancing microbiome research for public and ecosystem health** | *See panel below* | |
 | 16:10 | Vote of thanks & awards | Prof Bertie Fielding (Dean of Science) | Stellenbosch, ZA |
 
 ### Closing Panel (15:10 – 16:10)
