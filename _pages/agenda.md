@@ -103,7 +103,7 @@ Hosted by the African Microbiome Project, Stellenbosch University (SU).
 | 10:30 | Keynote: Clustering millions of genomes to determine redundancy and novelty | Dr Robert (Rob) Finn | MBL-EBI, United Kingdom, UK |
 | 10:55 | Seeing is the key: two stories of high-resolution genomics | Dr Florian Trigodet | HIFMB, Oldenburg, DE |
 | 11:25 | Metagenomic Insights into Pathogen Dynamics and Resistance in Sewer Microbiomes | Prof Sheena Kumari | Durban (Institute for water and wastewater), ZA |
-| 11:50 | DMSP from the poles to the tropics | Dr Mayibongwe Buthelezi | Stellenbosch, ZA |
+| 11:50 | DMSP in polar and tropical waters | Dr Mayibongwe Buthelezi | Stellenbosch, ZA |
 | 12:30 | *Lunch* | | |
 | | **Session moderator** | **Dr Peter Montso** | |
 | 13:30 | When Exposure Is Not Enough: The Gut Microbiome as a Biological Modifier in PTSD and FASD | Prof Sian Hemmings | Cape Town (Tygerberg), ZA |
