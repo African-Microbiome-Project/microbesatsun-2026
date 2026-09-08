@@ -15,7 +15,7 @@ We are grateful for the collaboration that made this symposium and training work
 | [Thulani Makhalanyane](https://africanmicrobiomeproject.org/thulani-makhalanyane)  | Stellenbosch University                                |
 | [Nonsikelelo Hlongwa](https://africanmicrobiomeproject.org/nonsikelelo-precious-hlongwa)   | Stellenbosch University                                |
 | [Sam Leareng](https://africanmicrobiomeproject.org/sam-leareng)           | Stellenbosch University                                |
-| Elanna Bester-Klopper | Stellenbosch University                                |
+| [Elanna Bester-Klopper](https://africanmicrobiomeproject.org/Elanna-Bester/) | Stellenbosch University                                |
 | [Dillon Muzondiwa](https://africanmicrobiomeproject.org/Dillon-Muzondiwa)      | Stellenbosch University                                |
 | [Nello Gregori](https://africanmicrobiomeproject.org/Nello-Gregori)     | Stellenbosch University                                |
 | [John Paul Makumbi](https://africanmicrobiomeproject.org/jp-makumbi/)     | Stellenbosch University                                |
